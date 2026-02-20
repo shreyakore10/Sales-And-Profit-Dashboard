@@ -5,6 +5,10 @@ This project presents an interactive Sales & Profit Dashboard built using Micros
 
 The dashboard helps track total sales, total profit, yearly trends, customer performance, and regional distribution through dynamic visualizations and slicers.
 
+## 📊 Dashboard Preview
+
+![Dashboard Preview](dashboard_preview.png)
+
 ## 🛠 Tools & Features Used
 - Pivot Tables
 - Pivot Charts
